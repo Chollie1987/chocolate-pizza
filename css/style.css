@@ -1,0 +1,33 @@
+
+#social-media {
+    float: right;
+}
+
+#header-logo h1 {
+    font-family: Brush Script MT,Brush Script Std, cursive;
+    display: inline-block;
+   
+}
+.sub-head {
+    margin-left:50px;
+   
+
+}
+
+.delicious {
+    font-size: 300%;
+    margin-left: 10px;
+}
+
+#header-logo img {
+    float: left;
+}
+
+#title {
+    margin-top: 75px;
+}
+.pizza-title {
+    font-size:45px;
+    font-weight:900;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
