@@ -1,6 +1,7 @@
 
 #social-media {
     float: right;
+    margin-right: 15px;
 }
 
 #header-logo h1 {
@@ -8,15 +9,21 @@
     display: inline-block;
    
 }
+
+#header-logo {
+    margin-left: 300px;
+    margin-top: 40px;
+}
 .sub-head {
-    margin-left:50px;
+    margin-left: 50px;
    
 
 }
 
 .delicious {
     font-size: 300%;
-    margin-left: 10px;
+    margin-left: 20px;
+
 }
 
 #header-logo img {
@@ -25,9 +32,76 @@
 
 #title {
     margin-top: 75px;
+    margin-left: 300px;
 }
 .pizza-title {
     font-size:45px;
     font-weight:900;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.pizza-img {
+    margin-left: 300px;
+}
+
+#print {
+    margin-left: 1185px;
+}
+
+
+#recipe img {
+    position: absolute;
+    margin-left: 300px;
+
+}
+#recipe {
+    display: flex;
+    height:300px;
+}
+
+#first-section {
+    position: relative;
+    padding-left: 400px;
+    margin-left: auto;
+}
+
+#second-section {
+    position: relative;
+    margin-left: 400px;
+    padding-bottom: 400px;
+}
+
+.list {
+   padding-top: 65px;
+
+}
+
+.author {
+    margin-left: 300px;
+}
+
+.author button {
+    float:right;
+}
+
+footer {
+    text-align: center;
+}
+.copyright {
+   margin-left: 300px;
+ 
+}
+
+footer img {
+    margin-left: 375px;
+}
+
+.text {
+width: 800px;
+margin: auto;
+padding-left: 300px;
+}
+
+body {
+    width: 1200px;
 }
